@@ -13,7 +13,7 @@ packages:
     hackage: oidc-client-0.4.0.0
 snapshots:
 - completed:
-    size: 556330
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/nightly/2020/12/6.yaml
-    sha256: 53a2f3fe06fcac029ccf4fd54b5bb1745dc52451d9f023ef94721839bf991d8e
-  original: nightly-2020-12-06
+    size: 562267
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/nightly/2021/1/10.yaml
+    sha256: 9e39510437161f009d0e61c6e07d40350efce72cf9f71931bb89804b9d86d010
+  original: nightly-2021-01-10

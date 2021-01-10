@@ -7,3 +7,5 @@ extra-deps:
 packages:
 - kubernetes
 - kubernetes-client
+nix:
+  shell-file: stack-deps.nix

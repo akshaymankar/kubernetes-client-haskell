@@ -1,4 +1,4 @@
-resolver: lts-16.24
+resolver: nightly-2021-01-10
 extra-deps:
 - oidc-client-0.4.0.0
 packages:
@@ -9,5 +9,4 @@ nix:
   nix-shell-options:
   - --argstr
   - compiler
-  - ghc884
-
+  - ghc8103
